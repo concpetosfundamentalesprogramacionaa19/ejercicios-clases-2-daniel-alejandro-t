@@ -9,7 +9,8 @@ public class EjemploClase22 {
         String apellido;
         int edad;
         String ciudad, pais;
-		int promedio;
+		double notas;
+		double promedio;
 		
         System.out.println("Por favor ingrese sus nombre");
         nombre = entrada.next();
